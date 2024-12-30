@@ -1,5 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2016 The Bitcoin Core developers
+// Copyright (c) 2022-2023 The Dogecoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -31,7 +32,6 @@
 #include <utility>
 #include <vector>
 
-#include <boost/shared_ptr.hpp>
 #include <boost/thread.hpp>
 
 extern CWallet* pwalletMain;
@@ -62,7 +62,10 @@ static const CAmount DEFAULT_TRANSACTION_MINFEE = RECOMMENDED_MIN_TX_FEE;
  *         value can be changed when a significant portion of the relay network
  *         and miners have adopted a different hard dust limit.
  */
-static const CAmount DEFAULT_DISCARD_THRESHOLD = COIN;
+/* 1.14.6: set the wallet's discard threshold to 0.01 DOGE. Very network
+ *         adoption of new hard dust limit
+ */
+static const CAmount DEFAULT_DISCARD_THRESHOLD = COIN / 100;
 
 //! minimum recommended increment for BIP 125 replacement txs
 /*
@@ -238,7 +241,7 @@ public:
      * on this bitcoin node, and set to 0 for transactions that were created
      * externally and came in through the network or sendrawtransaction RPC.
      */
-    char fFromMe;
+    bool fFromMe;
     std::string strFromAccount;
     int64_t nOrderPos; //!< position in ordered transaction list
 
@@ -309,7 +312,7 @@ public:
     inline void SerializationOp(Stream& s, Operation ser_action) {
         if (ser_action.ForRead())
             Init(NULL);
-        char fSpent = false;
+        bool fSpent = false;
 
         if (!ser_action.ForRead())
         {
@@ -394,7 +397,6 @@ public:
     bool IsTrusted() const;
 
     int64_t GetTxTime() const;
-    int GetRequestCount() const;
 
     bool RelayWalletTransaction(CConnman* connman);
 
@@ -668,7 +670,6 @@ public:
     TxItems wtxOrdered;
 
     int64_t nOrderPosNext;
-    std::map<uint256, int> mapRequestCount;
 
     std::map<CTxDestination, CAddressBookData> mapAddressBook;
 
@@ -812,11 +813,11 @@ public:
      */
     static CAmount GetMinimumFee(const CMutableTransaction& tx, unsigned int nTxBytes, unsigned int nConfirmTarget, const CTxMemPool& pool, CAmount targetFee);
     /**
-     * Dogecoin: Get a fee targetting a specific transaction speed.
+     * Dogecoin: Get a fee targeting a specific transaction speed.
      */
     CAmount GetDogecoinPriorityFee(const CMutableTransaction& tx, unsigned int nTxBytes, FeeRatePreset nSpeed);
     /**
-     * Dogecoin: Get a fee targetting a specific transaction speed.
+     * Dogecoin: Get a fee targeting a specific transaction speed.
      */
     static CAmount GetDogecoinPriorityFee(const CMutableTransaction& tx, unsigned int nTxBytes, FeeRatePreset nSpeed, CAmount targetFee);
     /**
@@ -876,23 +877,8 @@ public:
 
     void UpdatedTransaction(const uint256 &hashTx) override;
 
-    void Inventory(const uint256 &hash) override
-    {
-        {
-            LOCK(cs_wallet);
-            std::map<uint256, int>::iterator mi = mapRequestCount.find(hash);
-            if (mi != mapRequestCount.end())
-                (*mi).second++;
-        }
-    }
+    void GetScriptForMining(std::shared_ptr<CReserveScript> &script) override;
 
-    void GetScriptForMining(boost::shared_ptr<CReserveScript> &script) override;
-    void ResetRequestCount(const uint256 &hash) override
-    {
-        LOCK(cs_wallet);
-        mapRequestCount[hash] = 0;
-    };
-    
     unsigned int GetKeyPoolSize()
     {
         AssertLockHeld(cs_wallet); // setKeyPool

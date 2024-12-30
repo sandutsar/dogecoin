@@ -79,14 +79,14 @@ QT_TRANSLATE_NOOP("bitcoin-core", ""
 QT_TRANSLATE_NOOP("bitcoin-core", ""
 "Error: Listening for incoming connections failed (listen returned error %s)"),
 QT_TRANSLATE_NOOP("bitcoin-core", ""
-"Execute command when a relevant alert is received or we see a really long "
-"fork (%s in cmd is replaced by message)"),
-QT_TRANSLATE_NOOP("bitcoin-core", ""
 "Execute command when a wallet transaction changes (%s in cmd is replaced by "
-"TxID)"),
+"TxID, %i with block height, with a value of 0 if tx is no longer in chaintip)"),
 QT_TRANSLATE_NOOP("bitcoin-core", ""
 "Execute command when the best block changes (%s in cmd is replaced by block "
 "hash, %i is replaced by block number)"),
+QT_TRANSLATE_NOOP("bitcoin-core", ""
+"Execute command when we see a really long fork (%s in cmd is replaced by "
+"message)"),
 QT_TRANSLATE_NOOP("bitcoin-core", ""
 "Extra transactions to keep in memory for compact block reconstructions "
 "(default: %u)"),
@@ -174,6 +174,9 @@ QT_TRANSLATE_NOOP("bitcoin-core", ""
 QT_TRANSLATE_NOOP("bitcoin-core", ""
 "Sets the serialization of raw transaction or block hex returned in non-"
 "verbose mode, non-segwit(0) or segwit(1) (default: %d)"),
+QT_TRANSLATE_NOOP("bitcoin-core", ""
+"Specify directory where to write backups and data dumps (default datadir/"
+"backups)"),
 QT_TRANSLATE_NOOP("bitcoin-core", ""
 "Support filtering of blocks and transaction with bloom filters (default: %u)"),
 QT_TRANSLATE_NOOP("bitcoin-core", ""
@@ -283,6 +286,7 @@ QT_TRANSLATE_NOOP("bitcoin-core", "Default"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Do not load the wallet and disable wallet RPC calls"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Do you want to rebuild the block database now?"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Done loading"),
+QT_TRANSLATE_NOOP("bitcoin-core", "Enable BIP-70 PaymentServer (default: 0)"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Enable publish hash block in <address>"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Enable publish hash transaction in <address>"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Enable publish raw block in <address>"),
@@ -348,7 +352,6 @@ QT_TRANSLATE_NOOP("bitcoin-core", "Pruning blockstore..."),
 QT_TRANSLATE_NOOP("bitcoin-core", "RPC server options:"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Rebuild chain state and block index from the blk*.dat files on disk"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Rebuild chain state from the currently indexed blocks"),
-QT_TRANSLATE_NOOP("bitcoin-core", "Receive and display P2P network alerts (default: %u)"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Reducing -maxconnections from %d to %d, because of system limitations."),
 QT_TRANSLATE_NOOP("bitcoin-core", "Relay and mine data carrier transactions (default: %u)"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Relay non-P2SH multisig (default: %u)"),

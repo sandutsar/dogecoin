@@ -1,4 +1,4 @@
-// Copyright (c) 2015 The Dogecoin Core developers
+// Copyright (c) 2015-2022 The Dogecoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -115,10 +115,11 @@ bool CheckAuxPowProofOfWork(const CBlockHeader& block, const Consensus::Params& 
     if (!block.IsAuxpow())
         return error("%s : auxpow on block with non-auxpow version", __func__);
 
-    if (!block.auxpow->check(block.GetHash(), block.GetChainId(), params))
-        return error("%s : AUX POW is not valid", __func__);
     if (!CheckProofOfWork(block.auxpow->getParentBlockPoWHash(), block.nBits, params))
         return error("%s : AUX proof of work failed", __func__);
+
+    if (!block.auxpow->check(block.GetHash(), block.GetChainId(), params))
+        return error("%s : AUX POW is not valid", __func__);
 
     return true;
 }

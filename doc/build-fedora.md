@@ -1,20 +1,35 @@
-Fedora build dependencies
---------------------------
+Fedora build guide
+------------------
 
-***NOTE: This documentation is outdated and needs to be updated***
+**Last tested with:** 1.14.7-dev (as of aa53a0d7)
+**Tested on:** Fedora 35-39 (x86 & ARM)
 
-Build requirements:
+### Build requirements
 
-    sudo dnf install gcc-c++ libtool make autoconf automake openssl-devel libevent-devel boost-devel libdb4-devel libdb4-cxx-devel
+```sh
+sudo dnf install gcc-c++ libtool which diffutils make autoconf automake \
+                 openssl-devel libevent-devel boost-devel libdb-cxx-devel
+```
+### Optional elements
 
-Optional:
+#### MiniUPNP
 
-    sudo dnf install miniupnpc-devel
+Useful when your node is running behind a NAT router.
 
-To build with Qt 5 (recommended) you need the following:
+```sh
+sudo dnf install miniupnpc-devel
+```
 
-    sudo dnf install qt5-qttools-devel qt5-qtbase-devel protobuf-devel
+#### ZeroMQ
 
-libqrencode (optional) can be installed with:
+```sh
+sudo dnf install zeromq-devel
+```
 
-    sudo dnf install qrencode-devel
+#### GUI requirements
+
+To build the GUI with Qt 5 you need the following:
+
+```sh
+sudo dnf install qt5-qttools-devel qt5-qtbase-devel protobuf-devel qrencode-devel
+``` 

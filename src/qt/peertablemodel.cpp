@@ -64,9 +64,7 @@ public:
             std::vector<CNodeStats> vstats;
             if(g_connman)
                 g_connman->GetNodeStats(vstats);
-#if QT_VERSION >= 0x040700
             cachedNodeStats.reserve(vstats.size());
-#endif
             Q_FOREACH (const CNodeStats& nodestats, vstats)
             {
                 CNodeCombinedStats stats;
@@ -179,9 +177,9 @@ QVariant PeerTableModel::data(const QModelIndex &index, int role) const
         case Ping:
             return GUIUtil::formatPingTime(rec->nodeStats.dMinPing);
         case BytesSent:
-            return GUIUtil::formatDataSizeValue(rec->nodeStats.nSendBytes);
+            return GUIUtil::formatBytes(rec->nodeStats.nSendBytes);
         case BytesReceived:
-            return GUIUtil::formatDataSizeValue(rec->nodeStats.nRecvBytes);
+            return GUIUtil::formatBytes(rec->nodeStats.nRecvBytes);
         }
     } else if (role == Qt::TextAlignmentRole) {
         if (index.column() == Ping)

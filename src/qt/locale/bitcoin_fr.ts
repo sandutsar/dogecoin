@@ -5,35 +5,35 @@
     <name>AddPeerDialog</name>
     <message>
         <source>Add Peer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un pair</translation>
     </message>
     <message>
         <source>Enter the peer details below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer les détails du pair ci-dessous.</translation>
     </message>
     <message>
         <source>Be careful! Do not blindly trust anyone that tells you to add their node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soyez prudent ! Ne faites pas aveuglément confiance à une personne qui vous demande d&apos;ajouter son nœud.</translation>
     </message>
     <message>
         <source>Enter the peer&apos;s address</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer l&apos;adresse du pair</translation>
     </message>
     <message>
         <source>Enter the peer&apos;s port</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer le port du pair</translation>
     </message>
     <message>
         <source>Add!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter!</translation>
     </message>
     <message>
         <source>Please enter an address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez entrer une adresse.</translation>
     </message>
     <message>
         <source>Please enter a valid peer address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez entrer une adresse de pair valide.</translation>
     </message>
 </context>
 <context>
@@ -170,27 +170,27 @@
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Saisissez la nouvelle phrase de passe du porte-monnaie.&lt;br/&gt;Veuillez utiliser une phrase de passe composée de &lt;b&gt;dix caractères aléatoires ou plus&lt;/b&gt;, ou de &lt;b&gt;huit mots ou plus&lt;/b&gt;.</translation>
+        <translation>Saisissez la nouvelle phrase de passe du portefeuille.&lt;br/&gt;Veuillez utiliser une phrase de passe composée de &lt;b&gt;dix caractères aléatoires ou plus&lt;/b&gt;, ou de &lt;b&gt;huit mots ou plus&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Chiffrer le porte-monnaie</translation>
+        <translation>Chiffrer le portefeuille</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Cette opération nécessite votre phrase de passe pour déverrouiller le porte-monnaie.</translation>
+        <translation>Cette opération nécessite votre phrase de passe pour déverrouiller le portefeuille.</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Déverrouiller le porte-monnaie</translation>
+        <translation>Déverrouiller le portefeuille</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Cette opération nécessite votre phrase de passe pour déchiffrer le porte-monnaie.</translation>
+        <translation>Cette opération nécessite votre phrase de passe pour déchiffrer le portefeuille.</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Déchiffrer le porte-monnaie</translation>
+        <translation>Déchiffrer le portefeuille</translation>
     </message>
     <message>
         <source>Change passphrase</source>
@@ -198,39 +198,39 @@
     </message>
     <message>
         <source>Enter the old passphrase and new passphrase to the wallet.</source>
-        <translation>Saisir l&apos;ancienne puis la nouvelle phrase de passe du porte-monnaie.</translation>
+        <translation>Saisir l&apos;ancienne puis la nouvelle phrase de passe du portefeuille.</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Confirmer le chiffrement du porte-monnaie</translation>
+        <translation>Confirmer le chiffrement du portefeuille</translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Avertissement : si vous chiffrez votre porte-monnaie et perdez votre phrase de passe, vous &lt;b&gt;PERDREZ TOUS VOS DOGECOINS&lt;/b&gt; !</translation>
+        <translation>Avertissement : si vous chiffrez votre portefeuille et perdez votre phrase de passe, vous &lt;b&gt;PERDREZ TOUS VOS DOGECOINS&lt;/b&gt; !</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Voulez-vous vraiment chiffrer votre porte-monnaie ?</translation>
+        <translation>Voulez-vous vraiment chiffrer votre portefeuille ?</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>Le porte-monnaie est chiffré</translation>
+        <translation>Le portefeuille est chiffré</translation>
     </message>
     <message>
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 va maintenant se fermer pour terminer le processus de chiffrement. Souvenez-vous que le chiffrement de votre porte-monnaie ne peut pas protéger entièrement vos dogecoins contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
+        <translation>%1 va maintenant se fermer pour terminer le processus de chiffrement. Souvenez-vous que le chiffrement de votre portefeuille ne peut pas protéger entièrement vos dogecoins contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANT : toutes les sauvegardes précédentes du fichier de votre porte-monnaie devraient être remplacées par le fichier du porte-monnaie chiffré nouvellement généré. Pour des raisons de sécurité, les sauvegardes précédentes de votre fichier de porte-monnaie non chiffré deviendront inutilisables dès que vous commencerez à utiliser le nouveau porte-monnaie chiffré.</translation>
+        <translation>IMPORTANT : toutes les sauvegardes précédentes du fichier de votre portefeuille devraient être remplacées par le fichier du portefeuille chiffré nouvellement généré. Pour des raisons de sécurité, les sauvegardes précédentes de votre fichier de portefeuille non chiffré deviendront inutilisables dès que vous commencerez à utiliser le nouveau portefeuille chiffré.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>Échec de chiffrement du porte-monnaie</translation>
+        <translation>Échec de chiffrement du portefeuille</translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Le chiffrement du porte-monnaie a échoué en raison d&apos;une erreur interne. Votre porte-monnaie n&apos;a pas été chiffré.</translation>
+        <translation>Le chiffrement du portefeuille a échoué en raison d&apos;une erreur interne. Votre portefeuille n&apos;a pas été chiffré.</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
@@ -238,19 +238,19 @@
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>Échec de déverrouillage du porte-monnaie</translation>
+        <translation>Échec de déverrouillage du portefeuille</translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>La phrase de passe saisie pour déchiffrer le porte-monnaie était erronée.</translation>
+        <translation>La phrase de passe saisie pour déchiffrer le portefeuille était erronée.</translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>Échec de déchiffrement du porte-monnaie</translation>
+        <translation>Échec de déchiffrement du portefeuille</translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>La phrase de passe du porte-monnaie a été modifiée avec succès.</translation>
+        <translation>La phrase de passe du portefeuille a été modifiée avec succès.</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
@@ -276,7 +276,7 @@
     </message>
     <message>
         <source>Synchronizing with network...</source>
-        <translation>Synchronisation avec le réseau…</translation>
+        <translation>Synchronisation avec le réseau...</translation>
     </message>
     <message>
         <source>&amp;Wow</source>
@@ -288,7 +288,7 @@
     </message>
     <message>
         <source>Show general overview of wallet</source>
-        <translation>Afficher une vue d’ensemble du porte-monnaie</translation>
+        <translation>Afficher une vue d&apos;ensemble du portefeuille</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -299,12 +299,12 @@
         <translation>Parcourir l&apos;historique transactionnel</translation>
     </message>
     <message>
-        <source>E&amp;xit</source>
-        <translation>Q&amp;uitter</translation>
+        <source>&amp;Exit</source>
+        <translation>&amp;Quitter</translation>
     </message>
     <message>
         <source>Quit application</source>
-        <translation>Quitter l’application</translation>
+        <translation>Quitter l&apos;application</translation>
     </message>
     <message>
         <source>&amp;About %1</source>
@@ -324,7 +324,7 @@
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>&amp;Options…</translation>
+        <translation>&amp;Options...</translation>
     </message>
     <message>
         <source>Modify configuration options for %1</source>
@@ -332,11 +332,11 @@
     </message>
     <message>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Chiffrer le porte-monnaie...</translation>
+        <translation>&amp;Chiffrer le portefeuille...</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
-        <translation>Sauvegarder le &amp;porte-monnaie...</translation>
+        <translation>Sauvegarder le &amp;portefeuille...</translation>
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
@@ -372,11 +372,11 @@
     </message>
     <message>
         <source>Backup wallet to another location</source>
-        <translation>Sauvegarder le porte-monnaie vers un autre emplacement</translation>
+        <translation>Sauvegarder le portefeuille vers un autre emplacement</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Modifier la phrase de passe utilisée pour le chiffrement du porte-monnaie</translation>
+        <translation>Modifier la phrase de passe utilisée pour le chiffrement du portefeuille</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Porte-monnaie</translation>
+        <translation>Portefeuille</translation>
     </message>
     <message>
         <source>&amp;Such Send</source>
@@ -416,7 +416,7 @@
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>Chiffrer les clés privées qui appartiennent à votre porte-monnaie</translation>
+        <translation>Chiffrer les clés privées qui appartiennent à votre portefeuille</translation>
     </message>
     <message>
         <source>Sign messages with your Dogecoin addresses to prove you own them</source>
@@ -526,7 +526,7 @@
     </message>
     <message>
         <source>Catching up...</source>
-        <translation>Rattrapage…</translation>
+        <translation>Rattrapage...</translation>
     </message>
     <message>
         <source>Date: %1
@@ -576,11 +576,11 @@
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Le porte-monnaie est &lt;b&gt;chiffré&lt;/b&gt; et est actuellement &lt;b&gt;déverrouillé&lt;/b&gt;</translation>
+        <translation>Le portefeuille est &lt;b&gt;chiffré&lt;/b&gt; et est actuellement &lt;b&gt;déverrouillé&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Le porte-monnaie est &lt;b&gt;chiffré&lt;/b&gt; et actuellement &lt;b&gt;verrouillé&lt;/b&gt;</translation>
+        <translation>Le portefeuille est &lt;b&gt;chiffré&lt;/b&gt; et actuellement &lt;b&gt;verrouillé&lt;/b&gt;</translation>
     </message>
     <message>
         <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
@@ -588,38 +588,42 @@
     </message>
     <message>
         <source>&amp;Print paper wallets</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Imprimer des portefeuilles papier</translation>
     </message>
     <message>
         <source>Print paper wallets</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimer des portefeuilles papier</translation>
     </message>
     <message>
         <source>&amp;Such sending addresses...</source>
-        <translation type="unfinished"></translation>
+        <translation>Trop d&apos;adresses d&apos;envoi...</translation>
     </message>
     <message>
         <source>&amp;Much receiving addresses...</source>
-        <translation type="unfinished"></translation>
+        <translation>Trop d&apos;adresses de réception...</translation>
     </message>
     <message>
         <source>&amp;Import Private Key...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer une clé privée...</translation>
     </message>
     <message>
         <source>Import a Dogecoin private key</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer une clé privée Dogecoin</translation>
     </message>
     <message>
         <source>Runaway exception</source>
-        <translation type="unfinished"></translation>
+        <translation>Runaway exception</translation>
+    </message>
+    <message>
+        <source>E&amp;xit</source>
+        <translation>Sortir</translation>
     </message>
 </context>
 <context>
     <name>ClientModel</name>
     <message>
         <source>Network Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Alerte réseau</translation>
     </message>
 </context>
 <context>
@@ -694,11 +698,11 @@
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copier l’adresse</translation>
+        <translation>Copier l&apos;adresse</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copier l’étiquette</translation>
+        <translation>Copier l&apos;étiquette</translation>
     </message>
     <message>
         <source>Copy amount</source>
@@ -772,6 +776,10 @@
         <source>(change)</source>
         <translation>(monnaie)</translation>
     </message>
+    <message>
+        <source>Can vary +/- %1 koinu per input.</source>
+        <translation>Peut varier de +/- %1 koinu par entrée.</translation>
+    </message>
 </context>
 <context>
     <name>EditAddressDialog</name>
@@ -801,15 +809,15 @@
     </message>
     <message>
         <source>New sending address</source>
-        <translation>Nouvelle adresse d’envoi</translation>
+        <translation>Nouvelle adresse d&apos;envoi</translation>
     </message>
     <message>
         <source>Edit receiving address</source>
-        <translation>Modifier l’adresse de réception</translation>
+        <translation>Modifier l&apos;adresse de réception</translation>
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>Modifier l’adresse d&apos;envoi</translation>
+        <translation>Modifier l&apos;adresse d&apos;envoi</translation>
     </message>
     <message>
         <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
@@ -817,11 +825,11 @@
     </message>
     <message>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>L’adresse saisie «&#xa0;%1&#xa0;» est déjà présente dans le carnet d&apos;adresses.</translation>
+        <translation>L&apos;adresse saisie «&#xa0;%1&#xa0;» est déjà présente dans le carnet d&apos;adresses.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
-        <translation>Impossible de déverrouiller le porte-monnaie.</translation>
+        <translation>Impossible de déverrouiller le portefeuille.</translation>
     </message>
     <message>
         <source>New key generation failed.</source>
@@ -910,63 +918,67 @@
     <name>ImportKeysDialog</name>
     <message>
         <source>Import Private Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer une clé privée</translation>
     </message>
     <message>
         <source>&amp;Import Private Key</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Importer une clé privée</translation>
     </message>
     <message>
         <source>Private Key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé privée :</translation>
     </message>
     <message>
         <source>Private key to import into your wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé privée à importer dans votre portefeuille</translation>
     </message>
     <message>
         <source>Label for this private key in your wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Label pour cette clé privée dans votre portefeuille</translation>
     </message>
     <message>
         <source>Label (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>Label (optionnel):</translation>
     </message>
     <message>
         <source>Rescan</source>
-        <translation type="unfinished"></translation>
+        <translation>Rescanner</translation>
     </message>
     <message>
         <source>Reset all key management options to default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser toutes les options de gestion des clés par défaut.</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Réinitialiser</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Importer</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">A&amp;nnuler</translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <source>Invalid private key; please check and try again!</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé privée non valide; veuillez vérifier et réessayer !</translation>
     </message>
     <message>
         <source>Invalid address generated from private key; please check and try again!</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse invalide générée à partir de la clé privée; veuillez vérifier et réessayer !</translation>
     </message>
     <message>
         <source>Failed to add private key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;ajout de la clé privée.</translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation type="unfinished">Nouvelle analyse…</translation>
+        <translation>Nouvelle analyse...</translation>
+    </message>
+    <message>
+        <source>Reset this form.</source>
+        <translation>Réinitialiser ce formulaire.</translation>
     </message>
 </context>
 <context>
@@ -985,7 +997,7 @@
     </message>
     <message>
         <source>%1 will download and store a copy of the Dogecoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1 téléchargera et stockera une copie de la chaîne de blocs de Dogecoin. Au moins %2 Go de données seront stockés dans ce répertoire et sa taille augmentera avec le temps. Le porte-monnaie sera également stocké dans ce répertoire.</translation>
+        <translation>%1 téléchargera et stockera une copie de la chaîne de blocs de Dogecoin. Au moins %2 Go de données seront stockés dans ce répertoire et sa taille augmentera avec le temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1019,7 +1031,7 @@
     </message>
     <message>
         <source>Choose data directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir le dossier de données</translation>
     </message>
 </context>
 <context>
@@ -1030,7 +1042,7 @@
     </message>
     <message>
         <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the dogecoin network, as detailed below.</source>
-        <translation>Les transactions récentes ne sont peut-être pas encore visibles, et par conséquent, le solde de votre porte-monnaie est peut-être erroné. Cette information sera juste une fois que votre porte-monnaie aura fini de se synchroniser avec le réseau Dogecoin, comme décrit ci-dessous. </translation>
+        <translation>Les transactions récentes ne sont peut-être pas encore visibles, et par conséquent, le solde de votre portefeuille est peut-être erroné. Cette information sera juste une fois que votre portefeuille aura fini de se synchroniser avec le réseau Dogecoin, comme décrit ci-dessous. </translation>
     </message>
     <message>
         <source>Attempting to spend dogecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
@@ -1172,7 +1184,7 @@
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>&amp;Porte-monnaie</translation>
+        <translation>&amp;portefeuille</translation>
     </message>
     <message>
         <source>Expert</source>
@@ -1184,7 +1196,7 @@
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>Si vous désactivé la dépense de la monnaie non confirmée, la monnaie d&apos;une transaction ne peut pas être utilisée tant que cette transaction n&apos;a pas reçu au moins une confirmation. Celai affecte aussi le calcul de votre solde.</translation>
+        <translation>Si vous désactivez la dépense de la monnaie non confirmée, la monnaie d&apos;une transaction ne peut pas être utilisée tant que cette transaction n&apos;a pas reçu au moins une confirmation. Cela affecte également le mode de calcul de votre solde.</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
@@ -1330,6 +1342,22 @@
         <source>The supplied proxy address is invalid.</source>
         <translation>L&apos;adresse de serveur mandataire fournie est invalide.</translation>
     </message>
+    <message>
+        <source>Disables some advanced features but all blocks will still be fully validated. Reverting this setting requires re-downloading the entire blockchain. Actual disk usage may be somewhat higher.</source>
+        <translation>Désactive certaines fonctionnalités avancées mais tous les blocs seront toujours entièrement validés. Pour revenir sur ce paramètre, il faut retélécharger l&apos;ensemble de la blockchain. L&apos;utilisation réelle du disque peut être un peu plus élevée.</translation>
+    </message>
+    <message>
+        <source>Prune &amp;block storage to</source>
+        <translation>Élaguer &amp;le stockage en bloc pour</translation>
+    </message>
+    <message>
+        <source>GB</source>
+        <translation>Go</translation>
+    </message>
+    <message>
+        <source>Reverting this setting requires re-downloading the entire blockchain.</source>
+        <translation>Pour revenir sur ce paramètre, il faut retélécharger l&apos;ensemble de la blockchain.</translation>
+    </message>
 </context>
 <context>
     <name>OverviewPage</name>
@@ -1339,7 +1367,7 @@
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre porte-monnaie est automatiquement synchronisé avec le réseau Dogecoin lorsque la connexion s&apos;établit, or ce processus n&apos;est pas encore terminé.</translation>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille est automatiquement synchronisé avec le réseau Dogecoin lorsque la connexion s&apos;établit, or ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1407,118 +1435,142 @@
     </message>
     <message>
         <source>Helpful tip of the day:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conseil utile du jour :</translation>
     </message>
     <message>
         <source>Tip</source>
-        <translation type="unfinished"></translation>
+        <translation>Conseil :</translation>
     </message>
     <message>
         <source>Never share your wallet.dat file/your private key with anyone</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne partagez jamais votre fichier wallet.dat/votre clé privée avec quiconque</translation>
     </message>
     <message>
         <source>For more advanced settings use the console in &apos;Help&apos; -&gt; &apos;Debug Window&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour des paramètres plus avancés, utilisez la console dans &apos;Aide&apos; -&gt; &apos;Fenêtre de débogage&apos;</translation>
     </message>
     <message>
         <source>Encrypt your wallet with a strong passphrase for maximum security</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiffrez votre portefeuille avec une passphrase forte pour une sécurité maximale.</translation>
     </message>
     <message>
         <source>Make sure to keep your wallet updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veillez à garder à jour votre portefeuille.</translation>
     </message>
     <message>
         <source>Backup your private key to recover your coins, using &apos;File&apos; &gt; &apos;Backup Wallet&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegardez votre clé privée pour récupérer vos pièces, en utilisant &apos;Fichier&apos; &gt; &apos;Portefeuille Sauvegardé&apos;</translation>
     </message>
     <message>
         <source>Always do your own research before using an external cryptocurrency service</source>
-        <translation type="unfinished"></translation>
+        <translation>Faites toujours vos propres recherches avant d&apos;utiliser un service externe de crypto-monnaie.</translation>
     </message>
     <message>
         <source>Never share your private key to an untrustworthy person.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne partagez jamais votre clé privée avec une personne indigne de confiance.</translation>
     </message>
     <message>
-        <source>Who own the private keys own the coins.</source>
-        <translation type="unfinished"></translation>
+        <source>Who owns the private keys owns the coins.</source>
+        <translation>Ceux qui possèdent les clés privées possèdent les pièces.</translation>
     </message>
     <message>
         <source>To see ongoing development and contribute, checkout Dogecoin repository on GitHub!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour voir le développement en cours et contribuer, consultez le dépôt Dogecoin sur GitHub !</translation>
     </message>
     <message>
         <source>Services that claim to double your dogecoins are always ponzi schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Les services qui prétendent doubler vos dogecoins sont toujours des systèmes de ponzi.</translation>
+    </message>
+    <message>
+        <source>Never share your wallet.dat file with anyone</source>
+        <translation>Ne partagez jamais votre fichier wallet.dat avec qui que ce soit</translation>
+    </message>
+    <message>
+        <source>For advanced operations, use the console in &apos;Help&apos; -&gt; &apos;Debug Window&apos;</source>
+        <translation>Pour les opérations avancées, utilisez la console dans &apos;Aide&apos; -&gt; &apos;Fenêtre de débogage&apos;</translation>
+    </message>
+    <message>
+        <source>Make sure to keep your wallet software updated</source>
+        <translation>Veillez à mettre à jour le logiciel de votre portefeuille</translation>
+    </message>
+    <message>
+        <source>Never share your private key with anyone</source>
+        <translation>Ne partagez jamais votre clé privée avec quiconque</translation>
+    </message>
+    <message>
+        <source>Who owns the private keys, owns the coins</source>
+        <translation>Qui possède les clés privées, possède les pièces</translation>
+    </message>
+    <message>
+        <source>To see ongoing development and contribute, check out the Dogecoin Core repository on GitHub</source>
+        <translation>Pour suivre le développement en cours et contribuer, consultez le dépôt Dogecoin Core sur GitHub</translation>
     </message>
 </context>
 <context>
     <name>PaperWalletDialog</name>
     <message>
         <source>Print Your Paper Wallets</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimez Votre Portefeuille Papier</translation>
     </message>
     <message>
         <source>Very New Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelle Adresse</translation>
     </message>
     <message>
         <source>So Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimer</translation>
     </message>
     <message>
         <source>Many Wallets?</source>
-        <translation type="unfinished"></translation>
+        <translation>Plusieurs Portefeuilles ?</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished"></translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>10</source>
-        <translation type="unfinished"></translation>
+        <translation>10</translation>
     </message>
     <message>
         <source>11</source>
-        <translation type="unfinished"></translation>
+        <translation>11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation type="unfinished"></translation>
+        <translation>12</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1526,107 +1578,111 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Public Key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Clé Publique :</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Warning: Network Activity Detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement : Activité Réseau Détectée</translation>
     </message>
     <message>
         <source>It is recommended to disconnect from the internet before printing paper wallets. Even though paper wallets are generated on your local computer, it is still possible to unknowingly have malware that transmits your screen to a remote location. It is also recommended to print to a local printer vs a network printer since that network traffic can be monitored. Some advanced printers also store copies of each printed document. Proceed with caution relative to the amount of value you plan to store on each address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il est recommandé de se déconnecter d&apos;Internet avant d&apos;imprimer des portefeuilles papier. Même si les portefeuilles papier sont générés sur votre ordinateur local, il est toujours possible d&apos;avoir, sans le savoir, un logiciel malveillant qui transmet votre écran à un emplacement distant. Il est également recommandé d&apos;imprimer sur une imprimante locale plutôt que sur une imprimante réseau, car le trafic réseau peut être surveillé. Certaines imprimantes avancées stockent également des copies de chaque document imprimé. Procédez avec prudence par rapport à la quantité de valeur que vous prévoyez de stocker sur chaque adresse.</translation>
     </message>
     <message>
         <source>Error encoding Address into QR Code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;encodage de l&apos;adresse dans le code QR.</translation>
     </message>
     <message>
         <source>Error encoding private key into QR Code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;encodage de la clé privée dans le QR Code.</translation>
     </message>
     <message>
         <source>Printing Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;Impression</translation>
     </message>
     <message>
         <source>failed to open file, is it writable?</source>
-        <translation type="unfinished"></translation>
+        <translation>impossible d&apos;ouvrir le fichier, est-il accessible en écriture ?</translation>
     </message>
     <message>
         <source>Load Paper Wallets</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement du portefeuille papier</translation>
     </message>
     <message>
         <source>The paper wallet printing process has begun.&lt;br/&gt;Please wait for the wallets to print completely and verify that everything printed correctly.&lt;br/&gt;Check for misalignments, ink bleeding, smears, or anything else that could make the private keys unreadable.&lt;br/&gt;Now, enter the number of DOGE you wish to send to each wallet:</source>
-        <translation type="unfinished"></translation>
+        <translation>Le processus d&apos;impression des portefeuilles en papier a commencé.&lt;br/&gt;Veuillez attendre que les portefeuilles s&apos;impriment complètement et vérifiez que tout s&apos;est imprimé correctement.&lt;br/&gt;Vérifiez que les clés privées ne sont pas mal alignées, que l&apos;encre ne coule pas, qu&apos;elles ne sont pas tachées ou que rien d&apos;autre ne risque de les rendre illisibles.&lt;br/&gt;Maintenant, entrez le nombre de DOGE que vous souhaitez envoyer à chaque portefeuille :</translation>
     </message>
     <message>
         <source>Paper wallet %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Portefeuille papier %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;%1&lt;/b&gt; to Paper Wallet &lt;span style=&apos;font-family: monospace;&apos;&gt;%2&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; à Paper Wallet &lt;span style=&apos;font-family: monospace;&apos;&gt;%2&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Send Coins</source>
-        <translation type="unfinished">Envoyer des pièces</translation>
+        <translation>Envoyer des pièces</translation>
     </message>
     <message>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;adresse du destinataire n&apos;est pas valide, veuillez la revérifier.</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0</source>
-        <translation type="unfinished">Le montant à payer doit être supérieur à 0. {0?}</translation>
+        <translation>Le montant à payer doit être supérieur à 0</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished">Le montant dépasse votre solde.</translation>
+        <translation>Le montant dépasse votre solde.</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the transaction fee is included</source>
-        <translation type="unfinished"></translation>
+        <translation>Le total dépasse votre solde lorsque les frais de transaction sont inclus.</translation>
     </message>
     <message>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une adresse en double a été trouvée, on ne peut envoyer à chaque adresse qu&apos;une fois par opération d&apos;envoi.</translation>
     </message>
     <message>
         <source>Transaction creation failed!</source>
-        <translation type="unfinished">Échec de création de la transaction !</translation>
+        <translation>Échec de création de la transaction !</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
-        <translation type="unfinished">Voulez-vous vraiment envoyer ?</translation>
+        <translation>Voulez-vous vraiment envoyer ?</translation>
     </message>
     <message>
         <source>added as transaction fee</source>
-        <translation type="unfinished">ajoutés comme frais de transaction</translation>
+        <translation>ajoutés comme frais de transaction</translation>
     </message>
     <message>
         <source>Total Amount %1 (= %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Montant Total %1 (= %2)</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished">ou</translation>
+        <translation>ou</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation type="unfinished">Confirmer l’envoi de pièces</translation>
+        <translation>Confirmer l&apos;envoi de pièces</translation>
     </message>
     <message>
         <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"></translation>
+        <translation>La transaction a été rejetée ! Cela peut se produire si certaines des pièces de votre portefeuille ont déjà été dépensées, par exemple si vous avez utilisé une copie de wallet.dat et que des pièces ont été dépensées dans la copie mais pas marquées comme dépensées ici.</translation>
     </message>
 </context>
 <context>
@@ -1717,7 +1773,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (below discard threshold).</source>
-        <translation type="unfinished"></translation>
+        <translation>Le montant du paiement demandé pour %1 est trop faible (inférieur au seuil de rejet).</translation>
+    </message>
+    <message>
+        <source>BIP70 payment requests are deprecated and disabled by default. Restart with -enable-bip70 if you absolutely have to use this functionality.
+
+Use this functionality with extreme caution.</source>
+        <translation>Les demandes de paiement BIP70 sont obsolètes et désactivées par défaut. Redémarrez avec -enable-bip70 si vous devez absolument utiliser cette fonctionnalité.
+
+Utilisez cette fonctionnalité avec une extrême prudence.</translation>
+    </message>
+    <message>
+        <source>Payment request file handling is disabled by default. Restart with -enable-bip70 if you absolutely have to use this functionality.
+
+Use this functionality with extreme caution.</source>
+        <translation>Le traitement des fichiers de demande de paiement est désactivée par défaut. Redémarrez avec -enable-bip70 si vous devez absolument utiliser cette fonctionnalité.
+
+Utilisez cette fonctionnalité avec une extrême prudence.</translation>
     </message>
 </context>
 <context>
@@ -1740,38 +1812,46 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Bytes Sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Octets Envoyés</translation>
     </message>
     <message>
         <source>Bytes Received</source>
-        <translation type="unfinished"></translation>
+        <translation>Octets Reçus</translation>
     </message>
 </context>
 <context>
     <name>PeerTools</name>
     <message>
         <source>Error: Peer-to-peer functionality missing or disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur : La fonctionnalité Peer-to-peer est absente ou désactivée</translation>
     </message>
     <message>
         <source>Attempted to one try node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentative d&apos;un nœud d&apos;essai.</translation>
     </message>
     <message>
         <source>Error: Node already added</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur : Noeud déjà ajouté</translation>
     </message>
     <message>
         <source>Node not found in connected nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud non trouvé dans les nœuds connectés</translation>
     </message>
     <message>
         <source>Disconnected the node: </source>
-        <translation type="unfinished"></translation>
+        <translation>Déconnexion du nœud :</translation>
     </message>
     <message>
         <source>Returned OK.</source>
-        <translation type="unfinished"></translation>
+        <translation>Retourne OK.</translation>
+    </message>
+    <message>
+        <source>Error: Node address is invalid</source>
+        <translation>Erreur : L&apos;adresse du nœud n&apos;est pas valide</translation>
+    </message>
+    <message>
+        <source>Error: Unable to add node</source>
+        <translation>Erreur : Impossible d&apos;ajouter un nœud</translation>
     </message>
 </context>
 <context>
@@ -1864,23 +1944,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%1 B</source>
-        <translation type="unfinished">%1 o</translation>
+        <translation>%1 o</translation>
     </message>
     <message>
         <source>%1 TB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 To</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished">%1 Go</translation>
+        <translation>%1 Go</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished">%1 Mo</translation>
+        <translation>%1 Mo</translation>
     </message>
     <message>
         <source>%1 KB</source>
-        <translation type="unfinished">%1 Ko</translation>
+        <translation>%1 Ko</translation>
+    </message>
+    <message>
+        <source>%1 kB</source>
+        <translation>%1 kO</translation>
     </message>
 </context>
 <context>
@@ -1891,7 +1975,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error: Cannot parse configuration file: %1. Only use key=value syntax.</source>
-        <translation>Erreur : impossible d&apos;analyser le fichier de configuration : %1. N’utiliser que la syntaxe clef=valeur.</translation>
+        <translation>Erreur : impossible d&apos;analyser le fichier de configuration : %1. N&apos;utiliser que la syntaxe clef=valeur.</translation>
     </message>
     <message>
         <source>Error: %1</source>
@@ -2165,7 +2249,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>WARNING: Scammers have been active, telling users to type commands here, stealing their wallet contents. Do not use this console without fully understanding the ramification of a command.</source>
-        <translation>AVERTISSEMENT : des fraudeurs sont réputés être à l&apos;oeuvre, demandant aux utilisateurs de taper des commandes ici, et dérobant le contenu de leurs porte-monnaie. Ne pas utiliser cette console sans une compréhension parfaite des conséquences d&apos;une commande.</translation>
+        <translation>AVERTISSEMENT : des fraudeurs sont réputés être à l&apos;oeuvre, demandant aux utilisateurs de taper des commandes ici, et dérobant le contenu de leurs portefeuille. Ne pas utiliser cette console sans une compréhension parfaite des conséquences d&apos;une commande.</translation>
     </message>
     <message>
         <source>Network activity disabled</source>
@@ -2221,35 +2305,39 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Connected peers</source>
-        <translation type="unfinished"></translation>
+        <translation>Pairs connectés</translation>
     </message>
     <message>
         <source>Add new peer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un nouveau pair</translation>
     </message>
     <message>
         <source>Remove peer</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirer le pair</translation>
     </message>
     <message>
         <source>One try peer</source>
-        <translation type="unfinished"></translation>
+        <translation>Premier pair d&apos;essai</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <source>Remove Peer</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirer le pair</translation>
     </message>
     <message>
-        <source>Are you sure you want to remove the peer: </source>
-        <translation type="unfinished"></translation>
+        <source>Are you sure you want to remove the peer:</source>
+        <translation>Êtes-vous sûr de vouloir supprimer le pair :</translation>
     </message>
     <message>
         <source>No peer was selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun pair n&apos;a été sélectionné.</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to remove the peer: </source>
+        <translation>Êtes-vous sûr de vouloir supprimer le pair : </translation>
     </message>
 </context>
 <context>
@@ -2328,7 +2416,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copier l’étiquette</translation>
+        <translation>Copier l&apos;étiquette</translation>
     </message>
     <message>
         <source>Copy message</source>
@@ -2545,7 +2633,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Confirmer l’action d&apos;envoi</translation>
+        <translation>Confirmer l&apos;action d&apos;envoi</translation>
     </message>
     <message>
         <source>S&amp;end</source>
@@ -2601,7 +2689,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Confirmer l’envoi de pièces</translation>
+        <translation>Confirmer l&apos;envoi de pièces</translation>
     </message>
     <message>
         <source>The recipient address is not valid. Please recheck.</source>
@@ -2657,7 +2745,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The address you selected for change is not part of this wallet. Any or all funds in your wallet may be sent to this address. Are you sure?</source>
-        <translation>L&apos;adresse que vous avez sélectionnée pour la monnaie ne fait pas partie de ce porte-monnaie. Les fonds de ce porte-monnaie peuvent en partie ou en totalité être envoyés vers cette adresse. Êtes-vous certain ?</translation>
+        <translation>L&apos;adresse que vous avez sélectionnée pour la monnaie ne fait pas partie de ce portefeuille. Les fonds de ce portefeuille peuvent en partie ou en totalité être envoyés vers cette adresse. Êtes-vous certain ?</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2665,27 +2753,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until your have validated the complete chain.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;utilisation de fallbackfee peut entraîner l&apos;envoi d&apos;une transaction dont la confirmation prendra plusieurs heures ou jours (voire jamais). Pensez à choisir vos frais manuellement ou attendez d&apos;avoir validé la chaîne complète.</translation>
     </message>
     <message>
         <source>Warning: Fee estimation is currently not possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement : L&apos;estimation des frais n&apos;est actuellement pas possible.</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 satoshis and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 satoshis in fee, while &quot;total at least&quot; pays 1000 satoshis. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si le tarif personnalisé est fixé à 1000 satoshis et que la transaction n&apos;est que de 250 octets, alors le tarif &quot;par kilo-octets&quot; ne paie que 250 satoshis, tandis que le tarif &quot;total au moins&quot; paie 1000 satoshis. Pour les transactions supérieures à un kilo-octet, les deux payent par kilo-octets.</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"></translation>
+        <translation>Priorité :</translation>
     </message>
     <message>
         <source>low</source>
-        <translation type="unfinished"></translation>
+        <translation>faible</translation>
     </message>
     <message>
         <source>high</source>
-        <translation type="unfinished"></translation>
+        <translation>élevé</translation>
+    </message>
+    <message>
+        <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until you have validated the complete chain.</source>
+        <translation>L&apos;utilisation de fallbackfee peut entraîner l&apos;envoi d&apos;une transaction dont la confirmation prendra plusieurs heures ou jours (voire jamais). Pensez à choisir vos frais manuellement ou attendez d&apos;avoir validé la chaîne complète.</translation>
+    </message>
+    <message>
+        <source>If the custom fee is set to 1000 koinu and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 koinu in fee, while &quot;total at least&quot; pays 1000 koinu. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si les frais personnalisés sont fixés à 1000 koinu et que la transaction ne représente que 250 octets, alors l&apos;option &quot;par kilo-octets&quot; ne paie que 250 koinu de frais, tandis que l&apos;option &quot;total au moins&quot; paie 1000 koinu. Pour les transactions supérieures à un kilo-octet, les deux options paient par kilo-octets.</translation>
     </message>
 </context>
 <context>
@@ -2768,7 +2864,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Saisir une étiquette pour cette adresse afin de l’ajouter à votre carnet d’adresses</translation>
+        <translation>Saisir une étiquette pour cette adresse afin de l&apos;ajouter à votre carnet d&apos;adresses</translation>
     </message>
 </context>
 <context>
@@ -2893,7 +2989,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Le déverrouillage du porte-monnaie a été annulé.</translation>
+        <translation>Le déverrouillage du portefeuille a été annulé.</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
@@ -2939,39 +3035,39 @@ p, li { white-space: pre-wrap; }
     <name>TestPeerDialog</name>
     <message>
         <source>Test Peer</source>
-        <translation type="unfinished"></translation>
+        <translation>Tester le Pair</translation>
     </message>
     <message>
         <source>Enter the peer details below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer les détails du pair ci-dessous.</translation>
     </message>
     <message>
         <source>Be careful! Do not blindly trust anyone that tells you to add their node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soyez prudent ! Ne faites pas aveuglément confiance à une personne qui vous dit d&apos;ajouter son nœud.</translation>
     </message>
     <message>
         <source>Enter the peer&apos;s address</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer l&apos;adresse du pair</translation>
     </message>
     <message>
         <source>Enter the peer&apos;s port</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer le port du pair</translation>
     </message>
     <message>
         <source>Test!</source>
-        <translation type="unfinished"></translation>
+        <translation>Test !</translation>
     </message>
     <message>
         <source>Please enter an address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez entrer une adresse.</translation>
     </message>
     <message>
         <source>Please enter a valid peer address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez entrer une adresse de pair valide.</translation>
     </message>
     <message>
         <source>Try Peer</source>
-        <translation type="unfinished"></translation>
+        <translation>Essayez Pair</translation>
     </message>
 </context>
 <context>
@@ -3032,7 +3128,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, n’a pas encore été diffusée avec succès</translation>
+        <translation>, n&apos;a pas encore été diffusée avec succès</translation>
     </message>
     <message numerus="yes">
         <source>, broadcast through %n node(s)</source>
@@ -3231,7 +3327,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Ce bloc n’a été reçu par aucun autre nœud et ne sera probablement pas accepté&#xa0;!</translation>
+        <translation>Ce bloc n&apos;a été reçu par aucun autre nœud et ne sera probablement pas accepté&#xa0;!</translation>
     </message>
     <message>
         <source>Generated but not accepted</source>
@@ -3302,7 +3398,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Today</source>
-        <translation>Aujourd’hui</translation>
+        <translation>Aujourd&apos;hui</translation>
     </message>
     <message>
         <source>This week</source>
@@ -3322,7 +3418,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Range...</source>
-        <translation>Plage…</translation>
+        <translation>Plage...</translation>
     </message>
     <message>
         <source>Received with</source>
@@ -3358,11 +3454,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copier l’adresse</translation>
+        <translation>Copier l&apos;adresse</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copier l’étiquette </translation>
+        <translation>Copier l&apos;étiquette </translation>
     </message>
     <message>
         <source>Copy amount</source>
@@ -3382,7 +3478,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit label</source>
-        <translation>Modifier l’étiquette </translation>
+        <translation>Modifier l&apos;étiquette </translation>
     </message>
     <message>
         <source>Show transaction details</source>
@@ -3460,7 +3556,7 @@ p, li { white-space: pre-wrap; }
     <name>WalletFrame</name>
     <message>
         <source>No wallet has been loaded.</source>
-        <translation>Aucun porte-monnaie n&apos;a été chargé.</translation>
+        <translation>Aucun portefeuille n&apos;a été chargé.</translation>
     </message>
 </context>
 <context>
@@ -3482,11 +3578,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Backup Wallet</source>
-        <translation>Sauvegarder le porte-monnaie</translation>
+        <translation>Sauvegarder le portefeuille</translation>
     </message>
     <message>
         <source>Wallet Data (*.dat)</source>
-        <translation>Données du porte-monnaie (*.dat)</translation>
+        <translation>Données du portefeuille (*.dat)</translation>
     </message>
     <message>
         <source>Backup Failed</source>
@@ -3494,7 +3590,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>There was an error trying to save the wallet data to %1.</source>
-        <translation>Une erreur est survenue lors de l&apos;enregistrement des données du porte-monnaie vers %1.</translation>
+        <translation>Une erreur est survenue lors de l&apos;enregistrement des données du portefeuille vers %1.</translation>
     </message>
     <message>
         <source>Backup Successful</source>
@@ -3502,7 +3598,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The wallet data was successfully saved to %1.</source>
-        <translation>Les données du porte-monnaie ont été enregistrées avec succès vers %1</translation>
+        <translation>Les données du portefeuille ont été enregistrées avec succès vers %1</translation>
     </message>
 </context>
 <context>
@@ -3549,7 +3645,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Prune: last wallet synchronisation goes beyond pruned data. You need to -reindex (download the whole blockchain again in case of pruned node)</source>
-        <translation>Élagage : la dernière synchronisation de porte-monnaie va par-delà les données élaguées.  Vous devez -reindex (réindexer, télécharger de nouveau toute la chaîne de blocs en cas de nœud élagué)</translation>
+        <translation>Élagage : la dernière synchronisation de portefeuille va par-delà les données élaguées.  Vous devez -reindex (réindexer, télécharger de nouveau toute la chaîne de blocs en cas de nœud élagué)</translation>
     </message>
     <message>
         <source>Rescans are not possible in pruned mode. You will need to use -reindex which will download the whole blockchain again.</source>
@@ -3597,15 +3693,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. %s is probably already running.</source>
-        <translation>Impossible d’obtenir un verrou sur le répertoire de données %s. %s fonctionne probablement déjà.</translation>
+        <translation>Impossible d&apos;obtenir un verrou sur le répertoire de données %s. %s fonctionne probablement déjà.</translation>
     </message>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
-        <translation>Supprimer toutes les transactions du porte-monnaie et ne récupérer que ces parties de la chaîne de blocs avec -rescan au démarrage</translation>
+        <translation>Supprimer toutes les transactions du portefeuille et ne récupérer que ces parties de la chaîne de blocs avec -rescan au démarrage</translation>
     </message>
     <message>
         <source>Error loading %s: You can&apos;t enable HD on a already existing non-HD wallet</source>
-        <translation>Erreur de chargement de %s : vous ne pouvez pas activer HD sur un porte-monnaie non HD existant</translation>
+        <translation>Erreur de chargement de %s : vous ne pouvez pas activer HD sur un portefeuille non HD existant</translation>
     </message>
     <message>
         <source>Error reading %s! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
@@ -3613,7 +3709,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Exécuter la commande lorsqu&apos;une transaction de porte-monnaie change (%s dans la commande est remplacée par TxID)</translation>
+        <translation>Exécuter la commande lorsqu&apos;une transaction de portefeuille change (%s dans la commande est remplacée par TxID)</translation>
     </message>
     <message>
         <source>If this block is in the chain assume that it and its ancestors are valid and potentially skip their script verification (0 to verify all, default: %s, testnet: %s)</source>
@@ -3625,7 +3721,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Maximum total fees (in %s) to use in a single wallet transaction or raw transaction; setting this too low may abort large transactions (default: %s)</source>
-        <translation>Frais totaux maximaux (en %s) à utiliser en une seule transaction de porte-monnaie ou transaction brute ; les définir trop bas pourrait interrompre les grosses transactions (par défaut : %s)</translation>
+        <translation>Frais totaux maximaux (en %s) à utiliser en une seule transaction de portefeuille ou transaction brute ; les définir trop bas pourrait interrompre les grosses transactions (par défaut : %s)</translation>
     </message>
     <message>
         <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong, %s will not work properly.</source>
@@ -3669,7 +3765,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Wallet will not create transactions that violate mempool chain limits (default: %u)</source>
-        <translation>Un porte-monnaie ne créera aucune transaction qui enfreint les limites de chaîne de la réserve de mémoire (par défaut : %u)</translation>
+        <translation>Un portefeuille ne créera aucune transaction qui enfreint les limites de chaîne de la réserve de mémoire (par défaut : %u)</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3701,7 +3797,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Attempt to recover private keys from a corrupt wallet on startup</source>
-        <translation>Tenter de récupérer les clés privées d&apos;un porte-monnaie corrompu lors du démarrage</translation>
+        <translation>Tenter de récupérer les clés privées d&apos;un portefeuille corrompu lors du démarrage</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -3737,7 +3833,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>Ne pas charger le porte-monnaie et désactiver les appels RPC</translation>
+        <translation>Ne pas charger le portefeuille et désactiver les appels RPC</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
@@ -3769,7 +3865,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Erreur d&apos;initialisation de l&apos;environnement de la base de données du porte-monnaie %s !</translation>
+        <translation>Erreur d&apos;initialisation de l&apos;environnement de la base de données du portefeuille %s !</translation>
     </message>
     <message>
         <source>Error loading %s</source>
@@ -3777,15 +3873,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error loading %s: Wallet corrupted</source>
-        <translation>Erreur de chargement de %s&#xa0;: porte-monnaie corrompu</translation>
+        <translation>Erreur de chargement de %s&#xa0;: portefeuille corrompu</translation>
     </message>
     <message>
         <source>Error loading %s: Wallet requires newer version of %s</source>
-        <translation>Erreur de chargement de %s&#xa0;: le porte-monnaie exige une version plus récente de %s</translation>
+        <translation>Erreur de chargement de %s&#xa0;: le portefeuille exige une version plus récente de %s</translation>
     </message>
     <message>
         <source>Error loading %s: You can&apos;t disable HD on a already existing HD wallet</source>
-        <translation>Erreur de chargement de %s : vous ne pouvez pas désactiver HD sur un porte-monnaie HD existant</translation>
+        <translation>Erreur de chargement de %s : vous ne pouvez pas désactiver HD sur un portefeuille HD existant</translation>
     </message>
     <message>
         <source>Error loading block database</source>
@@ -3885,7 +3981,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Spécifiez le fichier de porte-monnaie (dans le répertoire de données)</translation>
+        <translation>Spécifiez le fichier de portefeuille (dans le répertoire de données)</translation>
     </message>
     <message>
         <source>The source code is available from %s.</source>
@@ -3925,23 +4021,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Verifying wallet...</source>
-        <translation>Vérification du porte-monnaie...</translation>
+        <translation>Vérification du portefeuille...</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
-        <translation>Le porte-monnaie %s réside en dehors du répertoire de données %s</translation>
+        <translation>Le portefeuille %s réside en dehors du répertoire de données %s</translation>
     </message>
     <message>
         <source>Wallet debugging/testing options:</source>
-        <translation>Options de débogage/de test du porte-monnaie :</translation>
+        <translation>Options de débogage/de test du portefeuille :</translation>
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart %s to complete</source>
-        <translation>Le porte-monnaie devait être réécrit&#xa0;: redémarrer %s pour terminer l&apos;opération.</translation>
+        <translation>Le portefeuille devait être réécrit&#xa0;: redémarrer %s pour terminer l&apos;opération.</translation>
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>Options du porte-monnaie :</translation>
+        <translation>Options du portefeuille :</translation>
     </message>
     <message>
         <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
@@ -3957,7 +4053,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
-        <translation>Créer de nouveaux fichiers avec les permissions système par défaut, au lieu de umask 077 (effectif seulement avec la fonction du porte-monnaie désactivée)</translation>
+        <translation>Créer de nouveaux fichiers avec les permissions système par défaut, au lieu de umask 077 (effectif seulement avec la fonction du portefeuille désactivée)</translation>
     </message>
     <message>
         <source>Discover own IP addresses (default: 1 when listening and no -externalip or -proxy)</source>
@@ -3969,7 +4065,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
-        <translation>Exécuter une commande lorsqu&apos;une alerte pertinente est reçue, ou si nous voyons une bifurcation vraiment étendue (%s dans la commande est remplacé par le message)</translation>
+        <translation>Exécuter la commande lorsqu&apos;une alerte pertinente est reçue ou que nous voyons un fork vraiment long (%s dans cmd est remplacé par message)</translation>
     </message>
     <message>
         <source>Fees (in %s/kB) smaller than this are considered zero fee for relaying, mining and transaction creation (default: %s)</source>
@@ -4001,7 +4097,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Use hierarchical deterministic key generation (HD) after BIP32. Only has effect during wallet creation/first start</source>
-        <translation>Utiliser une génération de clé hiérarchique déterministe (HD) après BIP32. N&apos;a d&apos;effet que lors de la création ou du lancement intitial du porte-monnaie</translation>
+        <translation>Utiliser une génération de clé hiérarchique déterministe (HD) après BIP32. N&apos;a d&apos;effet que lors de la création ou du lancement intitial du portefeuille</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -4069,7 +4165,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rescan the block chain for missing wallet transactions on startup</source>
-        <translation>Réanalyser la chaîne de blocs au démarrage, à la recherche de transactions de porte-monnaie manquantes</translation>
+        <translation>Réanalyser la chaîne de blocs au démarrage, à la recherche de transactions de portefeuille manquantes</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -4125,7 +4221,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upgrade wallet to latest format on startup</source>
-        <translation>Mettre à niveau le porte-monnaie au démarrage vers le format le plus récent</translation>
+        <translation>Mettre à niveau le portefeuille au démarrage vers le format le plus récent</translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
@@ -4145,7 +4241,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Zapping all transactions from wallet...</source>
-        <translation>Supprimer toutes les transactions du porte-monnaie...</translation>
+        <translation>Supprimer toutes les transactions du portefeuille...</translation>
     </message>
     <message>
         <source>ZeroMQ notification options:</source>
@@ -4161,7 +4257,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Chargement des adresses…</translation>
+        <translation>Chargement des adresses...</translation>
     </message>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
@@ -4245,7 +4341,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Warning: Wallet file corrupt, data salvaged! Original %s saved as %s in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Avertissement : le fichier du porte-monnaie est corrompu, les données ont été récupérées ! Le fichier %s original a été enregistré en tant que %s dans %s ; si votre solde ou vos transactions sont incorrects, vous devriez restaurer une sauvegarde.</translation>
+        <translation>Avertissement : le fichier du portefeuille est corrompu, les données ont été récupérées ! Le fichier %s original a été enregistré en tant que %s dans %s ; si votre solde ou vos transactions sont incorrects, vous devriez restaurer une sauvegarde.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given IP address (e.g. 1.2.3.4) or CIDR notated network (e.g. 1.2.3.0/24). Can be specified multiple times.</source>
@@ -4293,7 +4389,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Make the wallet broadcast transactions</source>
-        <translation>Obliger le porte-monnaie à diffuser les transactions</translation>
+        <translation>Obliger le portefeuille à diffuser les transactions</translation>
     </message>
     <message>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
@@ -4353,7 +4449,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The wallet will avoid paying less than the minimum relay fee.</source>
-        <translation>Le porte-monnaie évitera de payer moins que les frais minimaux de relais. </translation>
+        <translation>Le portefeuille évitera de payer moins que les frais minimaux de relais. </translation>
     </message>
     <message>
         <source>This is the minimum transaction fee you pay on every transaction.</source>
@@ -4389,7 +4485,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Chargement de l’index des blocs…</translation>
+        <translation>Chargement de l&apos;index des blocs...</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
@@ -4397,11 +4493,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Chargement du porte-monnaie…</translation>
+        <translation>Chargement du portefeuille...</translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>Impossible de revenir à une version inférieure du porte-monnaie</translation>
+        <translation>Impossible de revenir à une version inférieure du portefeuille</translation>
     </message>
     <message>
         <source>Cannot write default address</source>
@@ -4409,7 +4505,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>Nouvelle analyse…</translation>
+        <translation>Nouvelle analyse...</translation>
     </message>
     <message>
         <source>Done loading</source>
@@ -4421,75 +4517,91 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Bitcoin Core and Dogecoin Core</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitcoin Core et Dogecoin Core</translation>
     </message>
     <message>
         <source>Amount under which a transaction output is considered dust, in %s (default: %s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Montant en dessous duquel une transaction est considérée comme des poussières, en %s (default: %s)</translation>
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash, %i is replaced by block number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter la commande lorsque le meilleur bloc change (%s dans le cmd est remplacé par le hash du bloc, %i est remplacé par le numéro du bloc)</translation>
     </message>
     <message>
         <source>Extra transactions to keep in memory for compact block reconstructions (default: %u)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transactions supplémentaires à garder en mémoire pour les reconstructions de blocs compacts (par défaut: %u)</translation>
     </message>
     <message>
         <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit %s and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard. Paper wallet art provided by Anacoluthia.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce produit comprend un logiciel développé par le projet OpenSSL pour une utilisation dans la boîte à outils OpenSSL %s et un logiciel cryptographique écrit par Eric Young ainsi qu&apos;un logiciel UPnP écrit par Thomas Bernard. L&apos;art du portefeuille papier a été fourni par Anacoluthia.</translation>
     </message>
     <message>
         <source>Amaze</source>
-        <translation type="unfinished"></translation>
+        <translation>Étonnant</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Défaut</translation>
     </message>
     <message>
         <source>Many generous</source>
-        <translation type="unfinished"></translation>
+        <translation>Très généreux</translation>
     </message>
     <message>
         <source>Minimum</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus</translation>
     </message>
     <message>
         <source>Receive and display P2P network alerts (default: %u)</source>
-        <translation type="unfinished"></translation>
+        <translation>Recevoir et afficher les alertes du réseau P2P (par défaut: %u)</translation>
     </message>
     <message>
         <source>Such expensive</source>
-        <translation type="unfinished"></translation>
+        <translation>Très coûteux</translation>
     </message>
     <message>
         <source>Wow</source>
-        <translation type="unfinished"></translation>
+        <translation>Wow</translation>
     </message>
     <message>
         <source>-discardthreshold is set very high! This is the output amount that the wallet will discard (to fee) if it is smaller than this setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>-discardthreshold est fixé très haut ! Il s&apos;agit du montant de sortie que le portefeuille rejettera (aux frais) s&apos;il est inférieur à ce paramètre.</translation>
     </message>
     <message>
         <source>Amount under which a transaction output is considered non-standard and will not be accepted or relayed, in %s (default: %s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Montant en dessous duquel transaction est considérée comme non standard et ne sera pas acceptée ou relayée, en %s (par défaut : %s)</translation>
     </message>
     <message>
         <source>Invalid amount for -discardthreshold=&lt;amount&gt;: &apos;%s&apos; (must be at least the dust limit of %s to prevent stuck transactions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Montant invalide pour -le seuil de rejet=&lt;montant&gt;: &apos;%s&apos; (il doit être au moins égal à la limite poussière de %s pour éviter les transactions bloquées)</translation>
     </message>
     <message>
         <source>The minimum transaction output size (in %s) used to validate wallet transactions and discard change (to fee) (default: %s)</source>
-        <translation type="unfinished"></translation>
+        <translation>La taille minimale de sortie de la transaction (en %s) est utilisée pour valider les transactions du portefeuille et rejeter les changements (aux frais) (par défaut : %s).</translation>
     </message>
     <message>
         <source>Use Namecoin-compatible AuxPow API structure, (default: %u)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser la structure de l&apos;API AuxPow compatible avec Namecoin, (par défaut : %u)</translation>
+    </message>
+    <message>
+        <source>Execute command when we see a really long fork (%s in cmd is replaced by message)</source>
+        <translation>Exécuter la commande quand il y a une fourchette vraiment longue (%s dans cmd est remplacé par message)</translation>
+    </message>
+    <message>
+        <source>Specify directory where to write backups and data dumps (default datadir/backups)</source>
+        <translation>Spécifier le répertoire où écrire les sauvegardes et les vidages de données (par défaut datadir/backups)</translation>
+    </message>
+    <message>
+        <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID, %i with block height, with a value of 0 if tx is no longer in chaintip)</source>
+        <translation>Exécuter une commande lorsqu&apos;une transaction de portefeuille change (%s dans cmd est remplacé par TxID, %i par la hauteur du bloc, avec une valeur de 0 si tx n&apos;est plus dans chaintip)</translation>
+    </message>
+    <message>
+        <source>Enable BIP-70 PaymentServer (default: 0)</source>
+        <translation>Activer le serveur de paiement BIP-70 (par défaut : 0)</translation>
     </message>
 </context>
 </TS>
